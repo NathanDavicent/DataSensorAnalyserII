@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DataSensorAnalyser II/DataSensorAnalyser II.vcxproj" Id="ec6181f4-492d-4ffa-ab1e-c913aab4a9b9" />
+</Solution>
